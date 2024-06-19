@@ -26,13 +26,13 @@ Against this background, we have collected and published multiple datasets, incl
 
 **Example**:
 
-| LOC_DEC | HS_1 | FBW_1 | HN_2 | ETE_1 | ...  |
-| :-----: | :--: | :---: | :--: | :---: | :--: |
-|  HS_1   |  0   |       | ...  |       |      |
-|  FBW_1  |      |   0   |      |  ...  |      |
-|  HN_2   | ...  |       |  0   |       | ...  |
-|  ETE_1  |      |  ...  |      |   0   |      |
-|   ...   |      |       | ...  |       |  0   |
+| LOC_DEC | HS_1  | FBW_1 | HN_2  | ETE_1 |  ...  |
+| :-----: | :---: | :---: | :---: | :---: | :---: |
+|  HS_1   |   0   |       |  ...  |       |       |
+|  FBW_1  |       |   0   |       |  ...  |       |
+|  HN_2   |  ...  |       |   0   |       |  ...  |
+|  ETE_1  |       |  ...  |       |   0   |       |
+|   ...   |       |       |  ...  |       |   0   |
 
 ### 2. BUS_ROUTES.pickle
 
@@ -42,9 +42,9 @@ Against this background, we have collected and published multiple datasets, incl
 
 ```javascript
 {'SER_52f1': Stop_stn Ride_time sub
-0 NR 1 2017-02-21 13:58:02 0 days 00:00:00
-1 BMY 1 2017-02-21 13:59:13 0 days 00:01:11
-2 DIR 1 2017-02-21 14:00:54 0 days 00:02:52}
+0 NR_1 2017-02-21 13:58:02 0 days 00:00:00
+1 BMY_1 2017-02-21 13:59:13 0 days 00:01:11
+2 DIR_1 2017-02-21 14:00:54 0 days 00:02:52}
 
 ```
 
@@ -90,7 +90,7 @@ distance_matrix = pd.read_csv('DISTANCE_MATRIX.csv', index_col=0)
 ```python
 import pickle
 
-with open('phy_graph_1_new_mapped.pickle', 'rb') as file:
+with open('bus_routes.pickle', 'rb') as file:
     bus_routes = pickle.load(file)
 
 ```
