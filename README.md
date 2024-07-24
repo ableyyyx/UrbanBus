@@ -1,4 +1,4 @@
-# A Benchmark for Bus Passenger Flow Prediction
+# UrbanBus: A Fine-Grained Dataset for Bus Ridership Analysis
 With the acceleration of global urbanization, urban population density continues to increase, and urban transportation needs are also growing. An effective urban public transportation system can not only improve the quality of life of urban residents, but also play an indispensable role in easing traffic congestion and reducing environmental pollution. As the core component of urban public transportation, the bus system's operating efficiency and service quality directly affect the overall operation of urban transportation and residents' travel experience.
 
 In recent years, intelligent transportation technology and big data analysis technology have developed rapidly, and the operation management and planning and design of the public transportation system have been significantly improved. Through in-depth analysis of data such as bus stop distance information, bus route information, and bus passenger flow information, the structure and dynamic changes of the urban transportation network can be more comprehensively understood. These data not only help the transportation management department optimize bus route design and improve bus service levels, but also provide scientific basis for urban transportation planning.
@@ -9,14 +9,21 @@ Against this background, we have collected and published multiple datasets, incl
 
 ## Datasets Overview
 
-1. DISTANCE_MATRIX.csv
-2. BUS_ROUTES.pickle
-3. BUS_DATA_MAR_2018.csv
-4. BUS_DATA_FEB_2018.csv
-5. BUS_DATA_JAN_2018.csv
-6. BUS_DATA_OCT_2017.csv
-7. BUS_DATA_NOV_2017.csv
-8. BUS_DATA_DEC_2017.csv
+| Type           | File Name              | Description                              |
+| -------------- | ---------------------- | ---------------------------------------- |
+| Distance Matrix| DISTANCE_MATRIX.csv    | Distance matrix between any two points.  |
+| Bus Routes     | BUS_ROUTES.pickle      | Dictionary data of bus routes.           |
+| Bus Data       | BUS_DATA_MAR_2018.csv  | Detailed Bus data for March 2018.        |
+| Bus Data       | BUS_DATA_FEB_2018.csv  | Detailed Bus data for February 2018.     |
+| Bus Data       | BUS_DATA_JAN_2018.csv  | Detailed Bus data for January 2018.      |
+| Bus Data       | BUS_DATA_DEC_2017.csv  | Detailed Bus data for December 2017.     |
+| Bus Data       | BUS_DATA_NOV_2017.csv| Detailed Bus data for November 2017.     |
+| Bus Data       | BUS_DATA_OCT_2017.csv  | Detailed Bus data for October 2017.      |
+
+
+
+
+
 
 ## Detailed Dataset Information
 
