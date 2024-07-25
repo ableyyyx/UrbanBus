@@ -13,12 +13,12 @@ Against this background, we have collected and published multiple datasets, incl
 | -------------- | ---------------------- | ---------------------------------------- |
 | Distance Matrix| DISTANCE_MATRIX.csv    | Distance matrix between any two points.  |
 | Bus Routes     | BUS_ROUTES.pickle      | Dictionary data of bus routes.           |
-| Bus Data       | BUS_DATA_MAR_2018.csv  | Detailed Bus data for March 2018.        |
-| Bus Data       | BUS_DATA_FEB_2018.csv  | Detailed Bus data for February 2018.     |
-| Bus Data       | BUS_DATA_JAN_2018.csv  | Detailed Bus data for January 2018.      |
-| Bus Data       | BUS_DATA_DEC_2017.csv  | Detailed Bus data for December 2017.     |
-| Bus Data       | BUS_DATA_NOV_2017.csv| Detailed Bus data for November 2017.     |
-| Bus Data       | BUS_DATA_OCT_2017.csv  | Detailed Bus data for October 2017.      |
+| Transaction Records | BUS_DATA_MAR_2018.csv  | Detailed Bus data for March 2018.        |
+| Transaction Records | BUS_DATA_FEB_2018.csv  | Detailed Bus data for February 2018.     |
+| Transaction Records | BUS_DATA_JAN_2018.csv  | Detailed Bus data for January 2018.      |
+| Transaction Records | BUS_DATA_DEC_2017.csv  | Detailed Bus data for December 2017.     |
+| Transaction Records | BUS_DATA_NOV_2017.csv| Detailed Bus data for November 2017.     |
+| Transaction Records | BUS_DATA_OCT_2017.csv  | Detailed Bus data for October 2017.      |
 
 
 
