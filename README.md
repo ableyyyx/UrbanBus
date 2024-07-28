@@ -57,9 +57,9 @@ Against this background, we have collected and published multiple datasets, incl
 
 ```javascript
 {'SER_52f1': Stop_stn Ride_time sub
-0 NR_1 2018-02-21 13:58:02 0 days 00:00:00
-1 BMY_1 2018-02-21 13:59:13 0 days 00:01:11
-2 DIR_1 2018-02-21 14:00:54 0 days 00:02:52}
+0 NR_1 13:58:02 0 days 00:00:00
+1 BMY_1 13:59:13 0 days 00:01:11
+2 DIR_1 14:00:54 0 days 00:02:52}
 
 ```
 
