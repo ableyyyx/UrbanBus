@@ -5,9 +5,7 @@ In recent years, intelligent transportation technology and big data analysis tec
 
 Against this background, we have collected and published multiple datasets, including the distance matrix of bus stops, bus lines and bus passenger flow information of cityX. Through systematic data analysis, the operating rules of the urban public transportation system can be revealed, potential problems and room for improvement can be discovered, thereby providing support for the sustainable development of urban transportation.
 
-## Dataset Download Link
-
-[Download UrbanBus Dataset：]: https://drive.google.com/drive/folders/1M-zHSNxdp9NfYwu7H3F1uJtsAnyou6rP?usp=sharing
+[Download UrbanBus Dataset：]: (https://drive.google.com/drive/folders/1M-zHSNxdp9NfYwu7H3F1uJtsAnyou6rP?usp=sharing)
 
 
 
@@ -15,16 +13,16 @@ Against this background, we have collected and published multiple datasets, incl
 
 ## Datasets Overview
 
-| Type           | File Name              | Description                              |
-| -------------- | ---------------------- | ---------------------------------------- |
-| AFC Transaction | BUS_DATA_MAR_2018.csv  | Detailed Bus data for March 2018.        |
-| AFC Transaction | BUS_DATA_FEB_2018.csv  | Detailed Bus data for February 2018.     |
-| AFC Transaction | BUS_DATA_JAN_2018.csv  | Detailed Bus data for January 2018.      |
-| AFC Transaction | BUS_DATA_DEC_2017.csv  | Detailed Bus data for December 2017.     |
-| AFC Transaction | BUS_DATA_NOV_2017.csv| Detailed Bus data for November 2017.     |
-| AFC Transaction | BUS_DATA_OCT_2017.csv  | Detailed Bus data for October 2017.      |
-| Bus Stop Related Information | DISTANCE_MATRIX.csv    | Distance matrix between any two points.  |
-| Bus Stop Related Information | BUS_ROUTES.pickle      | Dictionary data of bus routes.           |
+| Type                         | File Name             | Description                             |
+| ---------------------------- | --------------------- | --------------------------------------- |
+| AFC Transaction              | BUS_DATA_MAR_2018.csv | Detailed Bus data for March 2018.       |
+| AFC Transaction              | BUS_DATA_FEB_2018.csv | Detailed Bus data for February 2018.    |
+| AFC Transaction              | BUS_DATA_JAN_2018.csv | Detailed Bus data for January 2018.     |
+| AFC Transaction              | BUS_DATA_DEC_2017.csv | Detailed Bus data for December 2017.    |
+| AFC Transaction              | BUS_DATA_NOV_2017.csv | Detailed Bus data for November 2017.    |
+| AFC Transaction              | BUS_DATA_OCT_2017.csv | Detailed Bus data for October 2017.     |
+| Bus Stop Related Information | DISTANCE_MATRIX.csv   | Distance matrix between any two points. |
+| Bus Stop Related Information | BUS_ROUTES.pickle     | Dictionary data of bus routes.          |
 
 
 
@@ -40,13 +38,13 @@ Against this background, we have collected and published multiple datasets, incl
 
 **Example**:
 
-| LOC_DEC | HS_1 | FBW_1 | HN_2  | ETE_1 | ...  |
-| :-----: | :--: | :---: | :---: | :---: | :--: |
-|  HS_1   |  0   |       |  ...  |       |      |
-|  FBW_1  | 3.28 |   0   |       |  ...  |      |
-|  HN_2   | ...  | 23.89 |   0   |       | ...  |
-|  ETE_1  |      |  ...  | 16.08 |   0   |      |
-|   ...   |      |       |  ...  |       |  0   |
+| LOC_DEC | HS_1  | FBW_1 | HN_2  | ETE_1 |  ...  |
+| :-----: | :---: | :---: | :---: | :---: | :---: |
+|  HS_1   |   0   |       |  ...  |       |       |
+|  FBW_1  | 3.28  |   0   |       |  ...  |       |
+|  HN_2   |  ...  | 23.89 |   0   |       |  ...  |
+|  ETE_1  |       |  ...  | 16.08 |   0   |       |
+|   ...   |       |       |  ...  |       |   0   |
 
 ### 2. BUS_ROUTES.pickle
 
