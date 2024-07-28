@@ -24,8 +24,10 @@ Against this background, we have collected and published multiple datasets, incl
 | AFC Transaction              | BUS_DATA_DEC_2017.csv | Detailed Bus data for December 2017.    |
 | AFC Transaction              | BUS_DATA_NOV_2017.csv | Detailed Bus data for November 2017.    |
 | AFC Transaction              | BUS_DATA_OCT_2017.csv | Detailed Bus data for October 2017.     |
-| Bus Stop Related Information | DISTANCE_MATRIX.csv   | Distance matrix between any two points. |
-| Bus Stop Related Information | BUS_ROUTES.pickle     | Dictionary data of bus routes.          |
+| Bus Stop Related Information | BusStopList.csv     | Names and IDs of all bus stops.          |
+| Bus Stop Related Information | DistanceMatrix.csv   | Distance matrix between any two points. |
+| Bus Stop Related Information | BusRoutes.pickle     | Dictionary data of bus routes.          |
+
 
 
 
