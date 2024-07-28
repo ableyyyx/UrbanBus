@@ -1,11 +1,14 @@
 # UrbanBus: A Fine-Grained Dataset for Bus Ridership Analysis
+
+[Download UrbanBus Dataset：]: (https://drive.google.com/drive/folders/1M-zHSNxdp9NfYwu7H3F1uJtsAnyou6rP?usp=sharing)
+
 With the acceleration of global urbanization, urban population density continues to increase, and urban transportation needs are also growing. An effective urban public transportation system can not only improve the quality of life of urban residents, but also play an indispensable role in easing traffic congestion and reducing environmental pollution. As the core component of urban public transportation, the bus system's operating efficiency and service quality directly affect the overall operation of urban transportation and residents' travel experience.
 
 In recent years, intelligent transportation technology and big data analysis technology have developed rapidly, and the operation management and planning and design of the public transportation system have been significantly improved. Through in-depth analysis of data such as bus stop distance information, bus route information, and bus passenger flow information, the structure and dynamic changes of the urban transportation network can be more comprehensively understood. These data not only help the transportation management department optimize bus route design and improve bus service levels, but also provide scientific basis for urban transportation planning.
 
 Against this background, we have collected and published multiple datasets, including the distance matrix of bus stops, bus lines and bus passenger flow information of cityX. Through systematic data analysis, the operating rules of the urban public transportation system can be revealed, potential problems and room for improvement can be discovered, thereby providing support for the sustainable development of urban transportation.
 
-[Download UrbanBus Dataset：]: (https://drive.google.com/drive/folders/1M-zHSNxdp9NfYwu7H3F1uJtsAnyou6rP?usp=sharing)
+
 
 
 
