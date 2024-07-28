@@ -74,7 +74,7 @@ Against this background, we have collected and published multiple datasets, incl
 | Card_Number | Card_Type | Travel_Mode | Bus_Service_Number | Direction | Bus_Trip_Num | Bus_Reg_Num | Boarding_stop_stn | Alighting_stop_stn | Ride_start_date | Ride_start_time | Ride_end_date | Ride_end_time |
 | :---------: | :-------: | :---------: | :----------------: | :-------: | :----------: | :---------: | :---------------: | :----------------: | :-------------: | :-------------: | :-----------: | :-----------: |
 |      0      |     A     |     Bus     |      SER_52f1      |   Start   |  TRIP_6b86   |  REG_736e   |       JH_1        |       DGE_1        |   2018-03-10    |    09:38:48     |  2018-03-10   |   09:50:19    |
-|      1      |     S     |     Bus     |      SER_52f1      |   Start   |  TRIP_7902   |  REG_C775   |       IU_2        |        CU_1        |   2018-03-09    |    16:00:50     |  2018-03-09   |   16:04:58    |
+|      1      |     S     |     Bus     |      SER_52f1      |   Start   |  TRIP_7902   |  REG_c076   |       IU_2        |        CU_1        |   2018-03-09    |    16:00:50     |  2018-03-09   |   16:04:58    |
 |     ...     |    ...    |     ...     |        ...         |    ...    |     ...      |     ...     |        ...        |        ...         |       ...       |       ...       |      ...      |      ...      |
 
 **<u>Tips</u>**: BUS_DATA_FEB_2018.csv, BUS_DATA_JAN_2018.csv, BUS_DATA_OCT_2017.csv, BUS_DATA_NOV_2017.csv, BUS_DATA_DEC_2017.csv  all have the same data format with MAR dataset.
