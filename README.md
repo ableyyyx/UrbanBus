@@ -1,6 +1,6 @@
 # UrbanBus: A Fine-Grained Dataset for Bus Ridership Analysis
 
-[Download UrbanBus Dataset：]: (https://drive.google.com/drive/folders/1M-zHSNxdp9NfYwu7H3F1uJtsAnyou6rP?usp=sharing)
+[Download UrbanBus Dataset](https://drive.google.com/drive/folders/1M-zHSNxdp9NfYwu7H3F1uJtsAnyou6rP?usp=sharing)
 
 With the acceleration of global urbanization, urban population density continues to increase, and urban transportation needs are also growing. An effective urban public transportation system can not only improve the quality of life of urban residents, but also play an indispensable role in easing traffic congestion and reducing environmental pollution. As the core component of urban public transportation, the bus system's operating efficiency and service quality directly affect the overall operation of urban transportation and residents' travel experience.
 
