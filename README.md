@@ -1,6 +1,9 @@
 # UrbanBus: A Fine-Grained Dataset for Bus Ridership Analysis
 
-Download UrbanBus Dataset:[ https://drive.google.com/drive/folders/1M-zHSNxdp9NfYwu7H3F1uJtsAnyou6rP?usp=sharing](https://drive.google.com/drive/folders/1M-zHSNxdp9NfYwu7H3F1uJtsAnyou6rP?usp=sharing)
+Download UrbanBus Dataset (Google Drive):[ https://drive.google.com/drive/folders/1M-zHSNxdp9NfYwu7H3F1uJtsAnyou6rP?usp=sharing](https://drive.google.com/drive/folders/1M-zHSNxdp9NfYwu7H3F1uJtsAnyou6rP?usp=sharing)
+
+
+Download UrbanBus Dataset (Baidu Pan):[ https://pan.baidu.com/s/1q38qmOW7HsyGaixg_LzMYQ?pwd=swle](https://pan.baidu.com/s/1q38qmOW7HsyGaixg_LzMYQ?pwd=swle)
 
 With the acceleration of global urbanization, urban population density continues to increase, and urban transportation needs are also growing. An effective urban public transportation system can not only improve the quality of life of urban residents, but also play an indispensable role in easing traffic congestion and reducing environmental pollution. As the core component of urban public transportation, the bus system's operating efficiency and service quality directly affect the overall operation of urban transportation and residents' travel experience.
 
@@ -24,9 +27,9 @@ Against this background, we have collected and published multiple datasets, incl
 | AFC Transaction              | BUS_DATA_DEC_2017.csv | Detailed Bus data for December 2017.    |
 | AFC Transaction              | BUS_DATA_NOV_2017.csv | Detailed Bus data for November 2017.    |
 | AFC Transaction              | BUS_DATA_OCT_2017.csv | Detailed Bus data for October 2017.     |
-| Bus Stop Related Information | BusStopList.csv     | Names and IDs of all bus stops.          |
-| Bus Stop Related Information | DistanceMatrix.csv   | Distance matrix between any two points. |
-| Bus Stop Related Information | BusRoutes.pickle     | Dictionary data of bus routes.          |
+| Bus Stop Related Information | BusStopList.csv       | Names and IDs of all bus stops.         |
+| Bus Stop Related Information | DistanceMatrix.csv    | Distance matrix between any two points. |
+| Bus Stop Related Information | BusRoutes.pickle      | Dictionary data of bus routes.          |
 
 
 
