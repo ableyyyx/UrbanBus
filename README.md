@@ -1,5 +1,7 @@
 # UrbanBus: A Fine-Grained Dataset for Bus Ridership Analysis
 
+Paper: https://academic.oup.com/iti/article/doi/10.1093/iti/liae019/7917135?login=true
+
 Download UrbanBus Dataset (Google Drive):[ https://drive.google.com/drive/folders/1M-zHSNxdp9NfYwu7H3F1uJtsAnyou6rP?usp=sharing](https://drive.google.com/drive/folders/1M-zHSNxdp9NfYwu7H3F1uJtsAnyou6rP?usp=sharing)
 
 
